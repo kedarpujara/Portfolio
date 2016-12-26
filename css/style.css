@@ -1,0 +1,74 @@
+body {
+	background-color: #2E5878;
+	text-align: center;
+}
+
+.pageOne{
+	background-color:2E5878 ;
+	text-align: center;
+}
+
+.nav-top {
+	list-style-type: none;
+	text-align: center;
+	padding-top: 32px;
+
+	margin: 0;
+	position: fixed;
+	overflow: auto;
+	height: 100%
+
+
+}
+.nav-top li{
+	float: left;
+	/*display: inline;
+	display: block*/;
+	padding-left: 30px;
+	padding-right: 30px
+	
+}
+
+.nav-top a{
+	color: #ECEFF1;
+
+	border-style: solid;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-decoration: none;
+	display: inline-block;
+
+}
+
+.nav-top li a:hover {
+	background-color: black;
+	text-decoration: none;
+	border-color: orange;
+}
+
+.nav-top li a:visited {
+	text-decoration: none;
+}
+
+.nav-top li a:active {
+	text-decoration: none;
+	background-color: #4CAF50
+}
+
+.my-sites{
+}
+
+.my-sites li{
+	display: inline;
+}
+
+
+
+.btn-linkedin{color:#fff;background-color:#007bb6;border-color:rgba(0,0,0,0.2)}.btn-linkedin:focus,.btn-linkedin.focus{color:#fff;background-color:#005983;border-color:rgba(0,0,0,0.2)}
+.btn-linkedin:hover{color:#fff;background-color:#005983;border-color:rgba(0,0,0,0.2)}
+.btn-linkedin:active,.btn-linkedin.active,.open>.dropdown-toggle.btn-linkedin{color:#fff;background-color:#005983;border-color:rgba(0,0,0,0.2)}.btn-linkedin:active:hover,.btn-linkedin.active:hover,.open>.dropdown-toggle.btn-linkedin:hover,.btn-linkedin:active:focus,.btn-linkedin.active:focus,.open>.dropdown-toggle.btn-linkedin:focus,.btn-linkedin:active.focus,.btn-linkedin.active.focus,.open>.dropdown-toggle.btn-linkedin.focus{color:#fff;background-color:#00405f;border-color:rgba(0,0,0,0.2)}
+.btn-linkedin:active,.btn-linkedin.active,.open>.dropdown-toggle.btn-linkedin{background-image:none}
+.btn-linkedin.disabled:hover,.btn-linkedin[disabled]:hover,fieldset[disabled] .btn-linkedin:hover,.btn-linkedin.disabled:focus,.btn-linkedin[disabled]:focus,fieldset[disabled] .btn-linkedin:focus,.btn-linkedin.disabled.focus,.btn-linkedin[disabled].focus,fieldset[disabled] .btn-linkedin.focus{background-color:#007bb6;border-color:rgba(0,0,0,0.2)}
+.btn-linkedin .badge{color:#007bb6;background-color:#fff}
